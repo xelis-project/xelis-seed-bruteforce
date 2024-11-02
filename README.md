@@ -1,6 +1,6 @@
 # XELIS Seed Bruteforce
 
-Did you missed a word in your seed? This tool will help you to find it.
+Did you miss a word in your seed? This tool will help you to find it.
 
 ## Usage
 
