@@ -1,0 +1,11 @@
+[package]
+name = "xelis-seed-bruteforce"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+xelis_wallet = { git = "https://github.com/xelis-project/xelis-blockchain", branch = "network-upgrade", package = "xelis_wallet" }
+xelis_common = { git = "https://github.com/xelis-project/xelis-blockchain", branch = "network-upgrade", package = "xelis_common" }
+log = "0.4.22"
+clap = "4.5.20"
+
